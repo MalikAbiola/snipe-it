@@ -142,7 +142,7 @@
     "formation": {
       "web": {
         "quantity": 1,
-        "size": "free"
+        "size": "basic"
       }
     },
     "image": "heroku/php",
